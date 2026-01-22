@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer and full-stack developer with 5+ years building production systems and 2+ years of hands-on ML/AI work across Python and Node.js/TypeScript. Skilled at taking models from experimentation to produc- tion: data pipelines, feature engineering, training/evaluation, and deployment as APIs/microservices. Strong in time-series/analytics, NLP/LLMs (RAG), SQL optimisation, Docker, and CI/CD. Comfort- able collaborating with product/stakeholders to translate business problems into measurable ML solutions.<br>
+Full-stack developer with 5+ years building production systems and 2+ years of hands-on ML/AI work across Python and Node.js/TypeScript. Skilled at taking models from experimentation to produc- tion: data pipelines, feature engineering, training/evaluation, and deployment as APIs/microservices. Strong in time-series/analytics, NLP/LLMs (RAG), SQL optimisation, Docker, and CI/CD. Comfort- able collaborating with product/stakeholders to translate business problems into measurable ML solutions.<br>
 
 
 ## 🌐 Socials:
